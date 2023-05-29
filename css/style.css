@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedorGeneral{
+    background-image: url("../img/Fondo.png");
+    height: 100vh;
+    width: 100vw;
+}
+
+.rellenar{
+    border-radius: 15px;
+}
+
+.formulario{
+    background-color: lightgrey;
+}
+
+.texto{
+    color: lightgray;
+}
+
+.candado{
+    background-image: url(../img/Candado.png);
+    height: 10%;
+    width: 10%
+}
+
+.titulo{
+    color: white;
+}
+
+.redes{
+    background-color: rgba(44, 44, 44, 0.582);
+    border: 1px solid lightgray;
+}
+
+.placeholders{
+    color:lightgray;   
+}
